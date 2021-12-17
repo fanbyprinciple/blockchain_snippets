@@ -18,7 +18,7 @@ Website is up:
 
 `npm run dev` to start the site.
 
-![](./truffle/website_up.png)
+![](./truffle_pet_shop/website_up.png)
 
 Cant connect the wallet to gnache. 
 

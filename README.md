@@ -24,7 +24,7 @@ Cant connect the wallet to gnache.
 
 connected the wallet from https://ethereum.stackexchange.com/questions/76858/metamask-testrpc-shows-0-ether-while-connecting-to-ganache-cli/116776#116776
 
-when nothign happens on click
+when nothing happens on click
 
 start truffle develop on another terminal
 

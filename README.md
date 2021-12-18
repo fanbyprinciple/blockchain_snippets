@@ -27,5 +27,3 @@ Ganache simulates an etherium blockchain. It can be achieved in a non gui manner
 After migration, the app can be deployed to a public network.
 
 ![](truffle_pet_shop/after_migration.png)
-
-

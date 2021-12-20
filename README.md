@@ -7,18 +7,24 @@ I am coding a python port of what was represented in the video.
 
 ![](building_a_blockchain_under_15_min.png)
 
-## Pet shop tutorial
 
-http://trufflesuite.com/tutorial/
+## Build a defi app
+https://www.youtube.com/watch?v=CgXQC4dbGUE
 
+prerequisites
+1. Nodejs
+2. Ganache
+Tobe continued.
 
-test passing.
+## Truffle pet shop
+https://www.trufflesuite.com/tutorial
 
-Website is up: 
+Blockchain basics:
+https://trufflesuite.com/guides/ethereum-overview
 
-`npm run dev` to start the site.
+Ganache simulates an etherium blockchain. It can be achieved in a non gui manner using truffle.
 
-![](./truffle_pet_shop/website_up.png)
+After migration, the app can be deployed to a public network.
 
 Cant connect the wallet to gnache. 
 
@@ -29,6 +35,8 @@ when nothing happens on click
 start truffle develop on another terminal
 
 in truffle develop wehenver I am typing in adoption the site point to localhost 8545 though gnache address is localhost 7545.
+
+![](truffle_pet_shop/after_migration.png)
 
 ## Understanding blockchains
 

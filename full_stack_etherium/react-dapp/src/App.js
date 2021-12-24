@@ -4,7 +4,7 @@ import { ethers } from 'ethers'
 import Greeter from './artifacts/contracts/Greeter.sol/Greeter.json'
 
 // Update with the contract address logged out to the CLI when it was deployed 
-const greeterAddress = "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+const greeterAddress = "0x5FbDB2315678afecb367f032d93F642f64180aa3"
 
 function App() {
   // store greeting in local state
@@ -23,6 +23,7 @@ function App() {
       try {
         const data = await contract.greet()
         console.log('data: ', data)
+
       } catch (err) {
         console.log("Error: ", err)
       }
@@ -46,6 +47,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        current greeting: {greeting}
         <button onClick={fetchGreeting}>Fetch Greeting</button>
         <button onClick={setGreeting}>Set Greeting</button>
         <input onChange={e => setGreetingValue(e.target.value)} placeholder="Set greeting" />

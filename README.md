@@ -48,9 +48,6 @@ Token deployed to  0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9
 
 ![](full_stack_etherium/react-dapp/token_sent.gif)
 
-
-
-
 ______________________________________
 # Movie rating app
 
@@ -62,6 +59,15 @@ Not able to connect movie rating app
 
 https://medium.com/hackernoon/pos-pow-and-12-other-blockchain-protocols-you-didnt-know-about-3634b089d119
 
-# solanan consensus mechanism
+# creating a solana escrow app
 
+https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/
+
+installing solana - 'curl "https://release.solana.com/v1.9.5/solana-install-init-x86_64-pc-windows-msvc.exe" --output "D:\Installs\solana\solana-install-init.exe" --create-dirs'
+
+install with - 'D:\Installs\solana\solana-install-init.exe v1.9.5'
+
+Thats it solana installed!
+
+to continue from : https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/#:~:text=entrypoint.rs%2C%20programs%2C%20and%20accounts
 

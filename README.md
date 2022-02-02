@@ -57,3 +57,11 @@ ______________________________________
 Not able to connect movie rating app
 
 ![](./movieRatingApp/rating/cant_connect.png)
+
+# PoS, PoW and Other blockchain networks
+
+https://medium.com/hackernoon/pos-pow-and-12-other-blockchain-protocols-you-didnt-know-about-3634b089d119
+
+# solanan consensus mechanism
+
+

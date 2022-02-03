@@ -63,7 +63,11 @@ https://medium.com/hackernoon/pos-pow-and-12-other-blockchain-protocols-you-didn
 
 https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/
 
-installing solana - 'curl "https://release.solana.com/v1.9.5/solana-install-init-x86_64-pc-windows-msvc.exe" --output "D:\Installs\solana\solana-install-init.exe" --create-dirs'
+installing solana - 
+
+from https://docs.solana.com/cli/install-solana-cli-tools
+
+'curl "https://release.solana.com/v1.9.5/solana-install-init-x86_64-pc-windows-msvc.exe" --output "D:\Installs\solana\solana-install-init.exe" --create-dirs'
 
 install with - 'D:\Installs\solana\solana-install-init.exe v1.9.5'
 

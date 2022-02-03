@@ -5,9 +5,9 @@ use solana_program::{
 
 entrypoint!(process_instruction);
 fn process_instruction(
-    program_id: &Pubkey,
-    accounts: &[AccountInfo],
-    instruction_data: &[u8],
+    program_id: &Pubkey, // program id
+    accounts: &[AccountInfo], // https://docs.solana.com/developing/programming-model/overview
+    instruction_data: &[u8], // dta to be sent
 ) -> ProgramResult {
     msg!(
         "process_instruction: {}: {} accounts, data={:?}",
